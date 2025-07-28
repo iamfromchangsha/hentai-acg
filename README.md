@@ -1,5 +1,5 @@
 # 代码项目说明文档
-<a href="https://info.flagcounter.com/FeH3"><img src="https://s01.flagcounter.com/count2/FeH3/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://api.yyy001.com/api/Visits?name=iamfromchangsha&mode=total&theme=gelbooru" border="0"></a>
 ## 项目概述
 本项目是一个多功能的ACG资源下载与处理工具集，主要包含三个核心功能模块：
 
