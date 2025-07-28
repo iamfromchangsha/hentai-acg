@@ -9,9 +9,9 @@ from urllib.parse import urlparse
 from utils.AuthV3Util import addAuthParams
 
 #                      10行到53行是对接有道云翻译和正则提取中文
-APP_KEY = '6aa02c2db6cf989c'
+APP_KEY = ''
 # 应用密钥
-APP_SECRET = 'vF2QGmwVuNHEz6L2ERfAylkK3ygkB7g6'
+APP_SECRET = ''
 
 def extract_chinese_characters(text):
     # 正则表达式模式，匹配所有的中文字符
