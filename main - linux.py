@@ -40,7 +40,7 @@ def download_cos_photos():
     session = create_session()
     
     # 创建基础目录
-    base_dir = Path("/mnt/mydev/写真")
+    base_dir = Path("")
     base_dir.mkdir(parents=True, exist_ok=True)
     
     shuliang = int(input("请输入起始页面数: "))
