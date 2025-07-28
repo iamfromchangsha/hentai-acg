@@ -1,5 +1,5 @@
 # 代码项目说明文档
-<img src="https://api.yyy001.com/api/Visits?name=iamfromchangsha&mode=total&theme=gelbooru" border="0"></a>
+<img src="https://api.yyy001.com/api/Visits?name=iamfromchangsha_1&mode=total&theme=gelbooru" border="0"></a>
 ## 项目概述
 本项目是一个多功能的ACG资源下载与处理工具集，主要包含三个核心功能模块：
 
